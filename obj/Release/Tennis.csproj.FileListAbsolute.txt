@@ -1,0 +1,8 @@
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Release\Tennis.exe.config
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Release\Tennis.exe
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Release\Tennis.pdb
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Release\Tennis.Form1.resources
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Release\Tennis.Properties.Resources.resources
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Release\Tennis.csproj.GenerateResource.Cache
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Release\Tennis.exe
+C:\Users\NERON\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Release\Tennis.pdb

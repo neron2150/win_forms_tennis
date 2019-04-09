@@ -1,0 +1,9 @@
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.exe.config
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.exe
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\bin\Debug\Tennis.pdb
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.csprojResolveAssemblyReference.cache
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.Form1.resources
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.Properties.Resources.resources
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.csproj.GenerateResource.Cache
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.exe
+c:\users\neron\documents\visual studio 2015\Projects\Tennis\Tennis\obj\Debug\Tennis.pdb
